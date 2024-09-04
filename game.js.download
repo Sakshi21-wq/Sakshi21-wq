@@ -1,0 +1,2 @@
+choices=document.querySelectorAll(choice);
+console.log(choices)
